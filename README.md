@@ -14,6 +14,8 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)](https://react.dev/)
 
+Text&nbsp;&nbsp;&nbsp;&nbsp;with&nbsp;&nbsp;&nbsp;&nbsp;extra&nbsp;&nbsp;&nbsp;&nbsp;spacing.
+
 ---
 
 ## Wishing you a productive and inspiring day ahead! 🌞
