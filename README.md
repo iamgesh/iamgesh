@@ -21,7 +21,7 @@
 ### 🧩 Backend & API Development
 [![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)](https://learn.microsoft.com/en-us/dotnet/csharp/)&nbsp;&nbsp;
 [![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=flat)](https://dotnet.microsoft.com/)&nbsp;&nbsp;
-[![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat)](https://www.postgresql.org/)&nbsp;&nbsp;
+[![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat)](https://learn.microsoft.com/en-us/sql/sql-server/)&nbsp;&nbsp;
 [![REST API](https://img.shields.io/badge/-REST%20API-FF6C37?logo=postman&logoColor=white&style=flat)](https://www.postman.com/)&nbsp;&nbsp;
 
 ### ☁️ Cloud & DevOps
@@ -41,6 +41,7 @@
 [![Orange](https://img.shields.io/badge/-Orange-FF8000?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHJlY3Qgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiByeD0iOCIvPjwvc3ZnPg==&logoColor=white&style=flat)](https://orangedatamining.com/)&nbsp;&nbsp;
 [![Exploratory](https://img.shields.io/badge/-Exploratory-0052CC?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHJlY3Qgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiByeD0iOCIvPjwvc3ZnPg==&logoColor=white&style=flat)](https://exploratory.io/)&nbsp;&nbsp;
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)](https://www.python.org/)&nbsp;&nbsp;
+[![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?logo=neo4j&logoColor=white&style=flat)](https://neo4j.com/)&nbsp;&nbsp;
 [![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat)](https://www.microsoft.com/en-us/microsoft-365/excel)
 
 ---
