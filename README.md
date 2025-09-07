@@ -31,7 +31,9 @@
 [![CI/CD](https://img.shields.io/badge/-CI%2FCD-0A0A0A?logo=git&logoColor=white&style=flat)](https://en.wikipedia.org/wiki/CI/CD)&nbsp;&nbsp;
 
 ### 🧪 Testing
-[![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=flat)](https://jestjs.io/)
+[![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=flat)](https://jestjs.io/)&nbsp;&nbsp;
+[![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)](https://www.postman.com/)
+
 
 ### 📊 Business & Data Analytics
 [![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat)](https://powerbi.microsoft.com/)&nbsp;&nbsp;
