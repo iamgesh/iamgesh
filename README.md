@@ -15,6 +15,10 @@
 [![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)](https://react.dev/)  
 [![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat)](https://azure.microsoft.com/)
 
+| Left-aligned | Center-aligned | Right-aligned |
+| :----------- | :------------: | ------------: |
+| Item 1       | Item 2         | Item 3        |
+
 ---
 
 ## Wishing you a productive and inspiring day ahead! 🌞
