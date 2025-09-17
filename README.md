@@ -1,11 +1,8 @@
-# Welcome to my GitHub profile👋, I'm Gesh 👩‍💻!
+# Hello and Welcome to my GitHub profile👋! 
 
-- 😄 Pronouns: she/her
-- 🌱 Currently reactivating my software development skills through mini-projects.
-- 👯 I’m looking to collaborate on scalable, secure platforms and software development tools.
+- 👩‍💻 I'm Gesh.
+- 🌱 I'm reactivating my software development skills through mini-projects.
 - 🔭 Beyond software development, I’m passionate about business and data analytics — uncovering insights that inform smarter decisions and deliver measurable value.
-- ⚡ Fun fact: I believe the best code comes from great conversations — never underestimate the power of a good tech chat.
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/geshnumatee-sowaruth) — always happy to connect!
 
 ---
 
